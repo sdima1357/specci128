@@ -8,4 +8,6 @@ On SD card put files into directories under root:<br/>
   "/Z48"      files for sinclair 48 (.z80 and . tap)<br/>
   "/Z128"     files for sinclair 128 (.z80 and . tap)<br/>
   "/MP3"      mp3 files<br/>
+  
+  Display form here https://www.aliexpress.com/item/32991977705.html
 
